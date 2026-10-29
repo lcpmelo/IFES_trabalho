@@ -1,0 +1,19 @@
+# Ambiente da Atividade Prática 4 (Ferramentas para Data Science, DCOMP/UFSJ)
+#
+#   conda env create -f environment.yml
+#   conda activate ifes-viz
+#   jupyter lab atividade_pratica_4_ifes.ipynb
+#
+# As quatro bibliotecas exigidas estão com versão exata (as mesmas com que o notebook foi executado).
+name: ifes-viz
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pandas=3.0.5
+  - numpy=2.5.3
+  - matplotlib=3.11.2
+  - seaborn=0.13.2
+  # para abrir e executar o notebook
+  - jupyterlab
+  - ipykernel

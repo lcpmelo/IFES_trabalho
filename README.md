@@ -28,9 +28,3 @@ O `environment.yml` fixa as versões de pandas 3.0.5, numpy 2.5.3, matplotlib 3.
 - A vaga de TAE passou a atender muito mais estudantes (de 15,0 em 2014 para 19,2 em 2026); a razão por docente ficou estável (13,5 → 14,1).
 - A assistência por vaga de estudante em 2026 está 23,1% abaixo do patamar de 2014.
 - Oito anos combinam corte ou estagnação da assistência com mais vagas: 2015–2020, 2022 e 2026.
-
-## Observações sobre os dados
-
-- O CSV não informa a fonte nem se os valores monetários são correntes ou constantes. Eles foram usados **como fornecidos**; comparações de longo prazo exigiriam deflacionar.
-- 2026 é o ano corrente: se for estimativa, as conclusões sobre o último ano são provisórias.
-- Os mandatos são recortes de calendário, sem atribuição causal a governos.
